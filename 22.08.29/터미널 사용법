@@ -1,0 +1,22 @@
+ls: 현재 경로에 존재하는 파일/폴더 확인하기
+ls는 list의 약자로, 현재 자신의 위치에 있는 파일과 폴더들을 확인하는 명령어
+
+pwd: 현재 위치한 경로 출력하기
+pwd는 print working directory의 약자로, 현재 어떤 경로의 디렉토리에 있는지 출력해주는 명령어
+
+cd: 디렉토리 이동하기
+cd는 change directory의 약자로, 경로를 이동할 때 사용하는 명령어
+이전 경로로 돌아가고 싶다면 cd ..
+
+mkdir: 폴더 생성하기
+mkdir은 make directory의 약자로, 새로운 폴더를 생성하는 명령어
+
+rmdir: 폴더 삭제하기
+rmdir은 remove directory의 약자로, 폴더를 삭제하는 명령어
+
+rm: 파일 삭제하기
+rm은 remove의 약자로, 파일을 삭제하는 명령어
+
+clear: 터미널 정리하기
+
+history: 이전에 사용한 명령어 확인하기
