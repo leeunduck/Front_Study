@@ -8,6 +8,8 @@
 
 <a href="https://parkjh7764.tistory.com/93">비주얼 스튜디오 코드 extension (HTML)</a>
 
+<a href="https://backlog.com/git-tutorial/kr/stepup/stepup1_1.html">git branch</a>
+
 
 - [x] git push 방법
 - [x] 터미널 기초
