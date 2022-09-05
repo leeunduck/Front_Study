@@ -10,6 +10,8 @@
 
 <a href="https://backlog.com/git-tutorial/kr/stepup/stepup1_1.html">git branch</a>
 
+<a href="https://prod.velog.io/@uni_mocha/iTerm2%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-MacOS-%ED%84%B0%EB%AF%B8%EB%84%90-%EA%BE%B8%EB%AF%B8%EA%B8%B0">터미널 꾸미기</a>
+
 
 - [x] git push 방법
 - [x] 터미널 기초
