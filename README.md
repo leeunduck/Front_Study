@@ -4,6 +4,8 @@
 
 <a href="https://lsh424.tistory.com/37">리드미 작성방법</a>
 
+<a href="https://gist.github.com/ihoneymon/652be052a0727ad59601">마크다운 문법</a>
+
 
 - [x] git push 방법
 - [x] 터미널 기초
