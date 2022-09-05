@@ -6,6 +6,8 @@
 
 <a href="https://gist.github.com/ihoneymon/652be052a0727ad59601">마크다운 문법</a>
 
+<a href="https://parkjh7764.tistory.com/93">비주얼 스튜디오 코드 extension (HTML)</a>
+
 
 - [x] git push 방법
 - [x] 터미널 기초
