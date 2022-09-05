@@ -15,3 +15,5 @@
 
 - [x] git push 방법
 - [x] 터미널 기초
+- [ ] CSS 관련 extension
+- [ ] JS 관련 extension
