@@ -1,0 +1,11 @@
+git push
+
+git init 한뒤
+git remote -v로 확인
+git remote add origin 주소
+주소를 잘못 쳤다면 git remote remove origin으로 삭제
+git status로 확인
+git add .
+git status로 다시 확인
+git commit -m "커밋 메세지"
+git push origin master
