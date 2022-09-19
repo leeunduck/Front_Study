@@ -1,8 +1,8 @@
-1. git pull 레포이름 master/main
+1. git pull 프로젝트레포이름 master/main
 2. git checkout -b 브랜치이름
 3. git status로 확인
 4. git add .
 5. git status로 다시 확인
 6. git commit -m "수정사항 입력"
-7. git pull 레포이름 master/main
-8. git push 내  브랜치이름
+7. git pull 프로젝트레포이름 master/main
+8. git push 내레포  브랜치이름
