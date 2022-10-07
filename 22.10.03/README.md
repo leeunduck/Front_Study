@@ -21,10 +21,14 @@
 
 javascript 강의 이후에 검색해보면 좋은 키워드
 
-1. client, server
-2. CRUD
-3. 비동기
-4. promise
+<a href="https://ko.wikipedia.org/wiki/%ED%81%B4%EB%9D%BC%EC%9D%B4%EC%96%B8%ED%8A%B8_(%EC%BB%B4%ED%93%A8%ED%8C%85)">1. client, server</a>
+
+<a href="https://ko.wikipedia.org/wiki/CRUD">2. CRUD</a>
+
+<a href="https://private.tistory.com/24">3. 비동기</a>
+
+<a href="https://velog.io/@cyranocoding/2019-08-02-1808-%EC%9E%91%EC%84%B1%EB%90%A8-5hjytwqpqj">4. promise</a>
+
 5. fetch, async await
 6. restAPI
 7. frontend, backend간 상호통신과 관련해서 검색해보면 좋은 키워드 들입니다. 
