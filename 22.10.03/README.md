@@ -31,4 +31,4 @@ javascript 강의 이후에 검색해보면 좋은 키워드
 
 5. fetch, async await
 6. restAPI
-7. frontend, backend간 상호통신과 관련해서 검색해보면 좋은 키워드 들입니다. 
+frontend, backend간 상호통신과 관련해서 검색해보면 좋은 키워드 들입니다. 
